@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+botorch
+gpytorch
+numpy
+matplotlib
+jupyter
+black
+isort
+pylint 
